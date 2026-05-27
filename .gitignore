@@ -1,7 +1,7 @@
 node_modules/
+.vite/
 dist/
 venv/
 .env
 __pycache__/
 *.pyc
-.vite/
