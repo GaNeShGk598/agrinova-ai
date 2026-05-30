@@ -155,7 +155,7 @@ npm run dev
 ```bash
 cd deploy/backend
 pip install -r requirements.txt
-python db_mysql.py
+python main.py
 ```
 
 ### Environment Variables
