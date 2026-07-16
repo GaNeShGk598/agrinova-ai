@@ -19,3 +19,4 @@ Pillow==10.4.0
 
 # Env management
 python-dotenv==1.0.1
+pymongo==4.8.0
